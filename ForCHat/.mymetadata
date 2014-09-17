@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ForCHat"
+  id="myeclipse.1410419206513"
+  context-root="/ForCHat"
+  j2ee-spec="5.0"
+  archive="ForCHat.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/web" />
+  </attributes>
+</project-module>
+
